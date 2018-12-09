@@ -24,3 +24,6 @@ s2 = set([2, 3, 4])
 s1 & s2
 s1 | s2
 
+d = dict()
+d['for'] = 'mymother'
+print(d)

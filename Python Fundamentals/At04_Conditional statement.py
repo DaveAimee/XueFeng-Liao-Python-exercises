@@ -21,3 +21,4 @@ elif bmi < 32:
 else:
     print('严重肥胖')
 
+raise ValueError('')
